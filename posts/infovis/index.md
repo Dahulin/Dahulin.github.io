@@ -1,12 +1,18 @@
 ---
 layout: archive
 title: "信息可视化笔记"
-date: 2018-01-02T11:40:45-04:00
-categories:postsinfovis
+date: 2018-1-1T14:25:45-04:00
+modified:
+excerpt: "以下是关于图表使用的规范"
+tags: []
+image: 
+  feature: notes.gif
+  teaser:
 ---
 
+
 <div class="tiles">
-{% for post in site.categories.posts %}
-	{% include post-grid.html %}
+{% for post in site.categories.infovisnotes %}
+  {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles -->
+</div><!-- /.tiles 把所有categories 有 infovisnotes 的列出来-->
