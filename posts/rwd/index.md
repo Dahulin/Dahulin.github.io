@@ -2,6 +2,7 @@
 layout: archive
 title: "网页设计笔记"
 date: 2018-01-02T11:40:45-04:00
+categories:postsrwd
 modified:
 excerpt: "关于网页设计中表单的一些小知识点"
 tags: []
