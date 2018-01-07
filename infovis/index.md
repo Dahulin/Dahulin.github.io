@@ -3,7 +3,7 @@ layout: archive
 title: "可视化"
 date: 2018-01-02T11:40:45-04:00
 ---
-<img src="/images/数据分析.png" alt="数据分析.png">
+<a href="https://public.tableau.com/views/_18388/2_1?:embed=y&:display_count=yes&publish=yes"><img src="/images/数据分析.png" alt="数据分析.png"/></a>
 <div class="tiles">
 {% for post in site.categories.chart %}
 	{% include post-grid.html %}
