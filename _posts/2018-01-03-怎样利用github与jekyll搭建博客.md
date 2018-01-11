@@ -4,8 +4,8 @@ title:  "怎样利用github与jekyll搭建博客"
 date:   2018-01-03 20:00:00 +0800  
 categories: posts rwd
 image:
-  feature: GitHub.png
-  teaser: GitHub.png
+  feature: GitHub.jpg
+  teaser: GitHub.jpg
 ---  
 
 ## 怎样利用github与jekyll搭建博客
