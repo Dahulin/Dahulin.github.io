@@ -142,6 +142,7 @@
     }
     a:hover .teaser {
       opacity: 1;
+	  border: 3px solid $lemon
     }
     .title {
       display: block;
@@ -164,7 +165,7 @@
       }
     }
 	.title:hover,.excerpt:hover,.teaser:hover{ 
-	    color: lemon; 
+	    color: $lemon; 
 		}
   }
   .sub-menu-item > li a {
